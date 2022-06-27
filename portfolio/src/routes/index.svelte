@@ -4,11 +4,11 @@
         <div class="flex-grow">
             <h1 class=" text-5xl font-serif font-bold text-neutral-800">Lasifu Ta<span class="text-sm ml-4 font-sans font-normal">Product designer</span></h1>
             <div class="flex gap-8 mt-4 text-sm">
-                <p>laotala@gmail.com</p>
+                <a href="mailto:laotala@gmail.com" target="_blank">laotala@gmail.com</a>
                 <span class="font-light">|</span>
-                <p>linkedin/lasifuta</p>
+                <a href="https://www.linkedin.com/in/lasifuta/" target="_blank">linkedin/lasifuta</a>
                 <span class="font-light">|</span>
-                <p>Resume</p>
+                <a href="Lasifu Ta resume.pdf" target="_blank" download>Resume</a>
             </div>
         </div>
     </div>
