@@ -2,7 +2,7 @@
     <div class="flex gap-6 items-baseline">
         <div class="text-sm text-neutral-400 flex-grow-0 flex-shrink-0 w-16 leading-7 text-right"></div>
         <div class="flex-grow">
-            <h1 class=" text-5xl font-serif font-bold text-neutral-800">Lasifu Ta<span class="text-sm ml-4 font-sans font-normal">Product designer</span></h1>
+            <h1 class=" text-5xl font-serif font-bold text-neutral-800">Lasifu Ta<span class="text-lg ml-4 font-sans font-normal">Product designer</span></h1>
             <div class="flex gap-8 mt-4 text-sm">
                 <a href="mailto:laotala@gmail.com" target="_blank">laotala@gmail.com</a>
                 <span class="font-light">|</span>
@@ -12,8 +12,8 @@
             </div>
         </div>
     </div>
-    <div class="group hover:bg-neutral-900 -m-6 p-6 rounded-md relative overflow-hidden">
-        <div class="h-full absolute right-0 bottom-0 opacity-0 group-hover:opacity-100">
+    <div class="group hover:bg-neutral-900 -m-6 p-6 rounded-md relative ">
+        <div class="h-full absolute right-0 bottom-0 opacity-0 group-hover:opacity-100 rounded-md overflow-hidden">
             <div class="h-full w-full bg-gradient-to-r from-neutral-900 to-transparent absolute"></div>
             <img class="h-full" src="rewatch.png" alt="rewatch chapter">
         </div>
@@ -64,8 +64,8 @@
             </div>
         </a>
     </div>
-    <div class=" group hover:bg-neutral-900 -m-6 p-6 rounded-md relative overflow-hidden">
-        <div class="h-full absolute right-0 bottom-0 opacity-0 group-hover:opacity-100">
+    <div class=" group hover:bg-neutral-900 -m-6 p-6 rounded-md relative">
+        <div class="h-full absolute right-0 bottom-0 opacity-0 group-hover:opacity-100 rounded-md overflow-hidden">
             <div class="h-full w-full bg-gradient-to-r from-neutral-900 to-transparent absolute"></div>
             <img class="h-full" src="uw.png" alt="university of washington">
         </div>
