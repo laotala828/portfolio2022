@@ -22,7 +22,7 @@
                 <div class="absolute -left-28 top-0 text-neutral-800 font-bold text-right w-20">experience</div>
             </div>
             <div class="flex-grow">
-                <h2 class="text-xl font-serif font-bold text-neutral-800 group-hover:text-neutral-50">Product designer, Rewatch</h2>
+                <h2 class="text-xl font-serif font-bold text-neutral-800 group-hover:text-neutral-50">Rewatch, Product designer</h2>
                 <p class="text-sm text-neutral-400 leading-7">Designed the Comment feature to enable async communication on video.<br/>
                     Designed the Series, Chapter, and Tagging features to find content quickly. <br/>
                     Coded the front-end user interface with HTML, CSS, Javascript, and Rails.<br/>
@@ -38,7 +38,7 @@
         <a href="http://www/google.com" class="flex gap-6 items-baseline relative z-50">
             <div class="text-sm text-neutral-400 flex-grow-0 flex-shrink-0 w-16 leading-7 text-right">Nov 2021<br>Sep 2019</div>
             <div class="flex-grow">
-                <h2 class="text-xl font-serif font-bold text-neutral-800 group-hover:text-neutral-50">UX designer, Amazon</h2>
+                <h2 class="text-xl font-serif font-bold text-neutral-800 group-hover:text-neutral-50">Amazon, UX designer</h2>
                 <p class="text-sm text-neutral-400 leading-7">Led the end-to-end design for AWS BugBust, an AI-enabled gamification experience for bug-fixing. <br/>
                     Designed Amazon DevOps Guru, an AI-driven service to find and predict anomalies.<br/>
                     Modernized the UI of  Amazon Lex, a conversational AI and chatbot service.<br/>
@@ -55,7 +55,7 @@
         <a href="http://www/google.com" class="flex gap-6 items-baseline relative z-50">
             <div class="text-sm text-neutral-400 flex-grow-0 flex-shrink-0 w-16 leading-7 text-right">Sep 2019<br>Jun 2015</div>
             <div class="flex-grow">
-                <h2 class="text-xl font-serif font-bold text-neutral-800 group-hover:text-neutral-50">Product designer, Microsoft</h2>
+                <h2 class="text-xl font-serif font-bold text-neutral-800 group-hover:text-neutral-50">Microsoft, Product designer</h2>
                 <p class="text-sm text-neutral-400 leading-7">Led the design for Whiteboard mobile and web clients.<br/>
                     Designed interactions for different input methods and hardware devices.<br/>
                     Integrated Whiteboard with Microsoft Office and Teams ecosystem.<br/>
