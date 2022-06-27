@@ -50,7 +50,7 @@
     <div class="group hover:bg-neutral-900 -m-6 p-6 rounded-md relative overflow-hidden">
         <div class="h-full absolute right-0 bottom-0 opacity-0 group-hover:opacity-100">
             <div class="h-full w-full bg-gradient-to-r from-neutral-900 to-transparent absolute z-10"></div>
-            <img class="h-full translate-x-24" src="wb.png" alt="microsoft whiteboard">
+            <img class="h-full translate-x-16" src="wb.png" alt="microsoft whiteboard">
         </div>
         <a href="http://www/google.com" class="flex gap-6 items-baseline relative z-50">
             <div class="text-sm text-neutral-400 flex-grow-0 flex-shrink-0 w-16 leading-7 text-right">Sep 2019<br>Jun 2015</div>
